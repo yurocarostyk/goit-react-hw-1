@@ -1,0 +1,26 @@
+
+  
+  .avatar {
+    border-radius: 50%;
+  }
+  
+  .name {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 10px;
+  }
+  
+  .status {
+    margin-left: auto;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .online {
+    color: green;
+  }
+  
+  .offline {
+    color: red;
+  }
+  
